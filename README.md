@@ -33,8 +33,12 @@ This project is a machine learning-based Diabetes Prediction System developed us
    ```bash
    git clone https://github.com/your-username/diabetes-prediction-system.git
 
-2. cd diabetes-prediction-system
+2. Change the directory
+   ```bash
+   cd diabetes-prediction-system
 
-3. pip install pandas scikit-learn
+3. Install the dependencies
+   ```bash
+   pip install pandas scikit-learn
 
 4. Run the notebook using Jupyter or any IDE that supports .ipynb files
