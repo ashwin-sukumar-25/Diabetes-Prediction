@@ -22,8 +22,8 @@ This project is a machine learning-based Diabetes Prediction System developed us
 ---
 
 ## 📊 Dataset
-- **Pima Indians Diabetes Dataset** from Kaggle  
-  [Link to Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- **Diabetes Prediction Dataset** from Kaggle  
+  [Link to Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
 
 ---
 
